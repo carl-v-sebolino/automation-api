@@ -1,0 +1,6 @@
+name: api
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: api for automation-api demo
